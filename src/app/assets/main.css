@@ -1,0 +1,10 @@
+@import 'base.css';
+@import 'variables.css';
+@import 'theme.css';
+
+#app {
+  margin: 0 auto;
+  height: 100vh;
+  font-weight: normal;
+  background: var(--bg-color);
+}

@@ -1,0 +1,45 @@
+/*color system*/
+:root {
+  /*Brand*/
+  --brand_black: #0b1f36;
+  --brand_black_hover: #000000;
+  --brand_primary: #0061a2;
+  --brand_primary_hover: #0e477e;
+  --brand_cta: #ffdd2d;
+  --brand_cta_hover: #f9d106;
+
+  /*Accent*/
+  --accent_primary: #0078d7;
+  --accent_primary_hover: #006cc1;
+  --accent_primary_light: #f4f9fc;
+  --accent_primary_light_hover: #d1edff;
+  --accent_primary_surface: #e5f5ff;
+
+  /*Basic*/
+  --basic_black: #000000;
+  --basic_black_90: #333333;
+  --basic_black_80: #4b4b4b;
+  --basic_black_70: #808080;
+  --basic_black_60: #a7a7a7;
+  --basic_black_50: #cdcdcd;
+  --basic_black_40: #e6e6e6;
+  --basic_black_30: #f2f2f2;
+  --basic_black_20: #e3e3e3;
+  --basic_white: #ffffff;
+
+  /*System*/
+  --system_green: #2e9e10;
+  --system_green_hover: #298e0e;
+  --system_green_light: #d6ffc8;
+  --system_green_light_hover: #aed5a3;
+  --system_orange: #f79722;
+  --system_orange_hover: #de871e;
+  --system_orange_light: #ffedd5;
+  --system_orange_light_hover: #f4c98c;
+  --system_red: #d90d30;
+  --system_red_hover: #c10c2b;
+  --system_red_light: #ffdddf;
+  --system_red_light_hover: #f5b1b4;
+  --system_excel: #217346;
+  --system_excel_hover: #1d5536;
+}
